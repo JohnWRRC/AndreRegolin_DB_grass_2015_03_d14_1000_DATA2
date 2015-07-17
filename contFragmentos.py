@@ -2,7 +2,7 @@
 import grass.script as grass
 import os
 
-# colocando qq coisa
+
 os.chdir(r'C:\_data\valfrido')
 arquivo=open('cont.txt','w') 
 cabecalho='id'',''cont' '\n'
